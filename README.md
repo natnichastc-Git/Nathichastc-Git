@@ -1,61 +1,87 @@
-# Nathichastc-Git
-My GitHub Profile
 # 👋 Hi, I'm Nutnicha Sittichai
 
 🎯 Aspiring QA Engineer | Available for hire
-🧪 Manual Testing | Learning Automation (Playwright, Robot Framework)
+🧪 Manual Testing | API Testing | Learning Automation (Playwright)
 
 ---
+
 ## 🧠 About Me
-Fresh Graduate – Junior Manual QA with experience in requirement analysis, test case design, and validating system workflows from a user perspective.
 
-Strong understanding of SDLC and STLC processes, with hands-on experience in testing Back-office and Mobile Applications. Passionate about improving software quality and continuously developing automation testing skills.
+Junior QA Tester with hands-on experience in manual testing for back-office and mobile applications, including API testing and UAT support.
+
+Strong in requirement analysis, test case design, and identifying edge cases to ensure system reliability and quality. Experienced in collaborating closely with developers to track and resolve defects efficiently.
+
+Currently expanding skills in automation testing using Playwright and aiming to grow into a QA Automation Engineer role.
 
 ---
-## 💼 Experience
+
+## 💼 Work Experience
 
 **Software Tester (Internship – 10 Months)**
 📍 Possefy Group Company Limited, OPPO Thailand
 📅 May 2025 – February 2026
 
 * Conducted manual testing on Back-Office and Mobile Applications (PO, WMS, Wallet, HR System)
-* Designed test scenarios and test cases based on business requirements
-* Performed functional, system, regression, and smoke testing
-* Executed API testing using Postman (GET, POST, PUT, DELETE)
+* Performed requirement analysis and designed test scenarios and test cases
+* Executed smoke, functional, system, and regression testing
+* Performed API testing using Postman (GET, POST, PUT, DELETE)
 * Supported UAT and validated user acceptance criteria
-* Reported and tracked defects with clear reproduction steps, collaborating with developers
+* Reported, tracked, and retested defects with clear reproduction steps
 
 ### 🏆 Key Achievements
 
-* Identified critical edge cases and uncovered hidden system risks
+* Identified critical edge cases and potential system risks beyond standard test coverage
 * Recognized for strong attention to detail and comprehensive test case design
 
 ---
+
 ## 🧪 Project
-### 📌 Comparative Study: Manual vs Automation Testing (Playwright)
+
+### 📌 Manual vs Automation Testing (Playwright)
 
 * Built automation scripts using Playwright to replicate manual test cases
 * Covered UI, API, and regression testing
-* Analyzed test results to compare efficiency and accuracy
+* Analyzed test results to evaluate efficiency and accuracy
+
 ---
 
 ## 🧰 Tech & Tools
-* 💻 HTML, CSS, JavaScript, PHP
-* 🗄 MySQL / SQL
+
+* 💻 HTML, CSS, PHP (Basic)
+* 🗄 SQL (Query, Join, Filtering)
 * 🧪 Postman (API Testing)
-* 🤖 Playwright, Robot Framework (Basic Automation)
-* 📊 Excel (Pivot, Basic Analysis)
+* 🤖 Playwright (Basic Automation)
+* 🤖 Robot Framework (Basic)
+* 📊 Excel (Pivot Table, Basic Analysis)
 * 🛠 Asana, Trello
+
 ---
 
 ## 🎓 Education
+
 Chiang Mai University
 Bachelor’s Degree in Modern Management and Information Technology
+📅 May 2022 – February 2026
+
+---
+
+## 🌐 Languages
+
+* 🇹🇭 Thai: Fluent (Native)
+* 🇬🇧 English (EF SET):
+
+  * Reading: B1
+  * Listening: B2
+  * Speaking: B1
+  * Writing: A2
+* 🇨🇳 Chinese: Basic Communication
 
 ---
 
 ## 📄 Resume
-📥 [Download My Resume](./resume-natnicha.pdf)
+
+📥 [View / Download Resume](./resume_natnicha.pdf)
+
 ---
 
 ## 📫 Contact
