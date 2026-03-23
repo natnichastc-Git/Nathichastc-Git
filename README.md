@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nutnicha Sittichai
+# 👋 Hi, I'm Natnicha Sittichai
 
 🎯 Aspiring QA Engineer | Available for hire
 🧪 Manual Testing | API Testing | Learning Automation (Playwright)
